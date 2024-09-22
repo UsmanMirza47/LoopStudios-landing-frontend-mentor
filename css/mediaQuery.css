@@ -1,0 +1,33 @@
+@media screen and (max-width:1200px) {
+    
+/* --------------------
+All Global Variables
+---------------------- */
+
+:root { --px:  165px; } /*padding left and right*/
+
+/* About section responsive  */
+
+    .about .img-box { margin-bottom: 80px; }
+    
+    .about .img-box img { width: 100%; }
+
+    .about .content-box {
+        position: static;
+        max-width: 100%;
+        text-align: center;
+        padding: 0 95px;
+    }
+
+}
+
+
+
+
+/* -----------------------
+    responsive for medium desktop
+--------------------------*/
+
+@media screen and (max-widht: 1200px) {
+        
+}
